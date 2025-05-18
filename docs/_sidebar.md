@@ -1,10 +1,11 @@
 - [Introduction](introduction.md)
-- [Topic One](topic-one.md)
-- [Topic Two](topic-two.md)
-- Topic Three
-  - [Overview](topic-three-overview.md "Overview Chapter 3")
-  - [Subtopic One](topic-three-subtopic-one.md "Topic Three, Subtopic One")
-  - [Subtopic Two](topic-three-subtopic-two.md "Topic Three, Subtopic Two")
+- [Philosophy](philosophy.md)
+- [Environment](environment.md)
+- [Technology](technology.md)
+- Food
+    - [Overview](food-overview.md)
+    - [Growing and Cooking](growing-cooking.md)
+    - [Health and Nutrition](health-nutrition.md)
 
 **PROJECT INFO**  
 * [GitHub Repository](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/)  
